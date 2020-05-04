@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "name": "Streetlamp",
+        "category": "outside",
+        "color": "White",
+        "amount": 4,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrStreetlamp_Remake_2_0.png"
+    },
+    {
+        "id": 2,
+        "name": "Cute Tea Table",
+        "category": "livingRoom",
+        "color": "White",
+        "amount": 2,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrCuteTableS_Remake_0_0.png"
+    },
+    {
+        "id": 3,
+        "name": "Soft Serve Lamp",
+        "category": "livingRoom",
+        "color": "Strawberry Swirl",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrLampSoftcream_Remake_6_0.png"
+    },
+    {
+        "id": 4,
+        "name": "Writing Chair",
+        "category": "bedroom",
+        "color": "White, Pink",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrStudyChair_Remake_3_2.png"
+    },
+    {
+        "id": 5,
+        "name": "Cute Wardrobe",
+        "category": "bedroom",
+        "color": "Sky Blue",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrCuteClosetLR_Remake_1_0.png"
+    },
+    {
+        "id": 6,
+        "name": "Desk Mirror",
+        "category": "bedroom",
+        "color": "Pink",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrMirror_Remake_2_0.png"
+    },
+    {
+        "id": 7,
+        "name": "Mom's Plushie",
+        "category": "bedroom",
+        "color": "Pippa",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrMomDoll_Remake_3_0.png"
+    },
+    {
+        "id": 8,
+        "name": "Open-Frame Kitchen",
+        "category": "kitchen",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrKitchenFlame.png"
+    },
+    {
+        "id": 9,
+        "name": "Iron Worktable",
+        "category": "kitchen",
+        "color": "White",
+        "amount": 3,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrIronTableM_Remake_1_0.png"
+    },
+    {
+        "id": 10,
+        "name": "Dish Drying Rack",
+        "category": "kitchen",
+        "color": "White",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrDrainerbasket_Remake_0_0.png"
+    },
+    {
+        "id": 11,
+        "name": "Stand Mixer",
+        "category": "kitchen",
+        "color": "Pink",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrStandmixer_Remake_2_0.png"
+    },
+    {
+        "id": 12,
+        "name": "Deluxe Washer",
+        "category": "kitchen",
+        "color": "Pink",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrWashingmachineDrum_Remake_5_0.png"
+    },
+    {
+        "id": 13,
+        "name": "Blue Kitchen Mat",
+        "category": "kitchen",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS02.png"
+    },
+    {
+        "id": 14,
+        "name": "Bathroom Sink",
+        "category": "bathroom",
+        "color": "White",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrWashstand_Remake_0_0.png"
+    },
+    {
+        "id": 15,
+        "name": "Bathroom Towel Rack",
+        "category": "bathroom",
+        "color": "Silver",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrTowelrackWall_Remake_0_0.png"
+    },
+    {
+        "id": 16,
+        "name": "Rattan Towel Basket",
+        "category": "bathroom",
+        "color": "White",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrRattanBasket_Remake_3_0.png"
+    },
+    {
+        "id": 17,
+        "name": "Rattan Waste Bin",
+        "category": "bathroom",
+        "color": "White",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrRattanTrashbox_Remake_3_0.png"
+    },
+    {
+        "id": 18,
+        "name": "Shower Booth",
+        "category": "bathroom",
+        "color": "Blue",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrShowerboothSquare_Remake_2_0.png"
+    },
+    {
+        "id": 19,
+        "name": "Toilet Cleaning Set",
+        "category": "bathroom",
+        "color": "Colorful",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrCleaningsetWC_Remake_1_0.png"
+    },
+    {
+        "id": 20,
+        "name": "Blue Striped Wall",
+        "category": "bathroom",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe03.png"
+    },
+    {
+        "id": 21,
+        "name": "Fluffy Rug",
+        "category": "bathroom",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/RugOtherCloudM00.png"
+    },
+    {
+        "id": 22,
+        "name": "Diner Sofa",
+        "category": "diner",
+        "color": "Aquamarine",
+        "amount": 4,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroChairL_Remake_3_0.png"
+    },
+    {
+        "id": 23,
+        "name": "Diner Chair",
+        "category": "diner",
+        "color": "Aquamarine",
+        "amount": 6,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroChairS_Remake_3_0.png"
+    },
+    {
+        "id": 24,
+        "name": "Diner Counter Chair",
+        "category": "diner",
+        "color": "Aquamarine",
+        "amount": 6,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroCounterchair_Remake_3_0.png"
+    },
+    {
+        "id": 25,
+        "name": "Diner Dining Table",
+        "category": "diner",
+        "color": "Pink",
+        "amount": 3,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroTableM_Remake_4_0.png"
+    },
+    {
+        "id": 26,
+        "name": "Diner Mini Table",
+        "category": "diner",
+        "color": "Pink",
+        "amount": 3,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroTableS_Remake_4_0.png"
+    },
+    {
+        "id": 27,
+        "name": "Diner Counter Table",
+        "category": "diner",
+        "color": "Pink",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroCounter_Remake_4_0.png"
+    },
+    {
+        "id": 28,
+        "name": "Diner Neon Clock",
+        "category": "diner",
+        "color": "Yellow, Red Lines",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrAmeretroClock_Remake_2_0.png"
+    },
+    {
+        "id": 29,
+        "name": "Candy Machine",
+        "category": "diner",
+        "color": "Pink",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrCandymachine_Remake_3_0.png"
+    },
+    {
+        "id": 30,
+        "name": "Menu Chalkboard",
+        "category": "diner",
+        "color": "White",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/FtrMenuboard_Remake_2_0.png"
+    },
+    {
+        "id": 31,
+        "name": "Gray Vinyl Flooring",
+        "category": "diner",
+        "amount": 1,
+        "img": "https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker00.png"
+    }
+]

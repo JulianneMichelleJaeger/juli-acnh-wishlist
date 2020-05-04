@@ -1,0 +1,166 @@
+body {
+  background-image: url("https://66.media.tumblr.com/a76339bde06e571538fc7c213e885c2d/tumblr_n2imqbpn2H1rlei6ko1_400.jpg");
+  font-family: "Juice ITC", sans-serif;
+  font-size: 16px;
+  color: rgb(80, 80, 80);
+  letter-spacing: 1px;
+  line-height: 150%;
+}
+
+strong {
+  font-family: "RobotoSlab", serif;
+}
+
+h1 {
+  font-family: "RobotoSlab", serif;
+  font-size: 80px;
+  margin: 0;
+  margin-bottom: 80px;
+  text-align: right;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-family: "RobotoSlab", serif;
+  margin: 0;
+  margin-bottom: 5px;
+  letter-spacing: 3px;
+}
+
+.page-container {
+  margin: auto;
+  margin-top: 50px;
+  width: 1350px;
+  height: 650px;
+}
+
+.content {
+  display: inline-block;
+  margin-left: 160px;
+  width: 1000px;
+  height: 650px;
+  padding: 80px;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(80, 80, 80, 0.1);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(80, 80, 80, 0.2);
+}
+
+.pink {
+  background-color: #ffd9ede7;
+
+  h1 {
+    color: #df92b9;
+  }
+
+  strong, .nav-item {
+    color: #d482ad;
+  }
+}
+
+.green {
+  background-color: #bef5dfe9;
+
+  h1, h2 {
+    color: #76cca9;
+  }
+  
+  strong, .nav-item {
+    color: #5bb18e;
+  }
+}
+
+.blue {
+  background-color: #cdeff8e9;
+
+  h1 {
+    color: #78c6db;
+  }
+
+  strong, .nav-item {
+    color: #62b1c7;
+  }
+}
+
+.purple {
+  background-color: #e6d0f3e7;
+
+  h1 {
+    color: #c59bdd;
+  }
+
+  strong, .nav-item {
+    color: #ac78ca;
+  }
+}
+
+.image {
+  float: left;
+  margin-right: 36px;
+  border: 24px solid #fafeff;
+  border-radius: 8px;
+}
+
+#about, #donate {
+  line-height: 180%;
+}
+
+.signature {
+  font-size: 20px;
+  text-align: right;
+}
+
+.heart {
+  font-size: 24px;
+}
+
+.thank-you {
+  margin-bottom: 60px;
+  text-align: center;
+
+  .thank-you-img {
+    height: 250px;
+    width: auto;
+    margin: auto;
+    display: block;
+    border: 16px solid #fafeff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+}
+
+.contact {
+  display: block;
+}
+
+#acnh {
+  width: 400px;
+  height: auto;
+}
+
+.footer {
+  background-color: #fafeffe7;
+  color: rgb(134, 134, 134);
+  font-family: "RobotoSlab", serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  float: right;
+  margin-right: 390px;
+  margin-top: 160px;
+  padding-left: 10px;
+  padding-top: 2px;
+}

@@ -1,25 +1,48 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import './styles/App.scss';
+
+import Navbar from "./components/Navbar.js";
+import About from "./pages/About.js";
+import Wishlist from "./pages/Wishlist.js";
+import Thanks from "./pages/Thanks.js";
+import Donate from "./pages/Donate.js";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="page-container">
+        <div className="navbar">
+          <Navbar />
+        </div>
+
+        <Switch>
+          <Route exact path="/">
+            <div className="content pink">
+              <About />
+            </div>
+          </Route>
+          <Route path="/wishlist">
+            <div className="content green">
+              <Wishlist />
+            </div>
+          </Route>
+          <Route path="/thanks">
+            <div className="content blue">
+              <Thanks />
+            </div>
+          </Route>
+          <Route path="/donate">
+            <div className="content purple">
+              <Donate />
+            </div>
+          </Route>
+        </Switch>
+      </div>
+      <div className="footer">
+        This is a fan-made website that claims no ownership of any intellectual property associated with Nintendo or Animal Crossing.
+      </div>
+    </Router>
   );
 }
 
